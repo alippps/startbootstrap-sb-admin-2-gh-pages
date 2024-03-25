@@ -1,0 +1,11 @@
+Admin sudah lengkap
+admin meja done
+admin barang done
+logn done
+logout done
+
+Waiter sudah sisa fuction
+
+Kasir -transaksi
+
+Owner sudah lengkap
